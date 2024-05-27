@@ -1,7 +1,7 @@
 # Simple todo app
 
 ## Current build state
-![builde badge](https://github.com/caerroff/simple-todo/actions/workflows/main.yml/badge.svg)
+![builde badge](https://github.com/caerroff/simple-todo/actions/workflows/node.js.yml/badge.svg)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
